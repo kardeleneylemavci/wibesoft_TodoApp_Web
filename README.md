@@ -48,4 +48,7 @@ Uygulama varsayılan olarak `http://localhost:3000` adresinde çalışacaktır. 
 
 - Bu uygulama [React](https://reactjs.org/) ve [useState](https://reactjs.org/docs/hooks-state.html) gibi React kütüphanelerini kullanarak geliştirilmiştir.
 
+## Test
+- Bu uygulama Jest ile test edilmektedir. Test basit bir kullanıcı senaryosu ile kullanıcının görev ekleme, silme ve düzenleme davranışlarını test etmektedir.
+
 
